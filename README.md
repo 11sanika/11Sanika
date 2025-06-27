@@ -1,3 +1,4 @@
+![logo](https://github.com/11sanika/11Sanika/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20Banner.png)
 <h1 align="center">Hi, I'm Sanika Dhage</h1>
 <h3 align="center">I am a proactive and dedicated B.Tech student specializing in Computer Science with a focus on Health Informatics</h3>
 
